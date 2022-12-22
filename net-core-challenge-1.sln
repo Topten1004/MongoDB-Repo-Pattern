@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FixWithCustomSerialization", "FixWithCustomSerialization\FixWithCustomSerialization.csproj", "{3DA92E04-613B-4778-A6ED-7F8F08DE6303}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EACBA2E1-76A2-449C-8CB9-CB53D6BBC71D}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DA92E04-613B-4778-A6ED-7F8F08DE6303}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DA92E04-613B-4778-A6ED-7F8F08DE6303}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DA92E04-613B-4778-A6ED-7F8F08DE6303}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DA92E04-613B-4778-A6ED-7F8F08DE6303}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28B2A086-00D9-4E96-BA91-C14D29B8D7F0}
+	EndGlobalSection
+EndGlobal
